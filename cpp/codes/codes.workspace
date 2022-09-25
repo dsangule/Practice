@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="codes" Database="" Version="10000">
-  <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
-  <Project Name="Project2" Path="Project2/Project2.project" Active="Yes"/>
+  <Project Name="Section_8_Challenge" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="Section_9_Challenge" Path="Project2/Project2.project" Active="No"/>
+  <Project Name="Section_10_Challenge" Path="Section_10_Challenge/Section_10_Challenge.project" Active="No"/>
+  <Project Name="Section_10_Challenge_Assignent" Path="Section_10_Challenge_Assignent/Section_10_Challenge_Assignent.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
-      <Project Name="Project1" ConfigName="Debug"/>
-      <Project Name="Project2" ConfigName="Debug"/>
+      <Project Name="Section_8_Challenge" ConfigName="Debug"/>
+      <Project Name="Section_9_Challenge" ConfigName="Debug"/>
+      <Project Name="Section_10_Challenge" ConfigName="Debug"/>
+      <Project Name="Section_10_Challenge_Assignent" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
-      <Project Name="Project1" ConfigName="Release"/>
-      <Project Name="Project2" ConfigName="Release"/>
+      <Project Name="Section_8_Challenge" ConfigName="Release"/>
+      <Project Name="Section_9_Challenge" ConfigName="Release"/>
+      <Project Name="Section_10_Challenge" ConfigName="Release"/>
+      <Project Name="Section_10_Challenge_Assignent" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

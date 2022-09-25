@@ -1,2 +1,4 @@
-/home/aetherialeclipse/Desktop/Udemy/cpp/codes/Project2/main.cpp
-/home/aetherialeclipse/Desktop/Udemy/cpp/codes/Project1/main.cpp
+/home/aetherialeclipse/Desktop/Git/cpp/codes/Section_10_Challenge_Assignent/main.cpp
+/home/aetherialeclipse/Desktop/Git/cpp/codes/Section_10_Challenge/main.cpp
+/home/aetherialeclipse/Desktop/Git/cpp/codes/Project2/main.cpp
+/home/aetherialeclipse/Desktop/Git/cpp/codes/Project1/main.cpp
