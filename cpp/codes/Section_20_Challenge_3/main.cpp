@@ -49,11 +49,10 @@ void part1() {
     ifstream in_file {"../words.txt"};
     if (in_file) {
         while (getline(in_file, line)) {
-            //cout << line;
             stringstream ss(line);
             while (ss >> word) {
                 word = clean_string(word);
-                words[word]++;      // increment the count for the word in the map
+                words[word]++;
             }
         }
         in_file.close();

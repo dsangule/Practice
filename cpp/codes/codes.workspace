@@ -18,8 +18,8 @@
   <Project Name="Section_19_Challenge_4" Path="Section_19_Challenge_4/Section_19_Challenge_4.project" Active="No"/>
   <Project Name="Section_20_Challenge_1" Path="Section_20_Challenge_1/Section_20_Challenge_1.project" Active="No"/>
   <Project Name="Section_20_Challenge_2" Path="Section_20_Challenge_2/Section_20_Challenge_2.project" Active="No"/>
-  <Project Name="Section_20_Challenge_3" Path="Section_20_Challenge_3/Section_20_Challenge_3.project" Active="No"/>
-  <Project Name="Section_20_Challenge_4" Path="Section_20_Challenge_4/Section_20_Challenge_4.project" Active="Yes"/>
+  <Project Name="Section_20_Challenge_3" Path="Section_20_Challenge_3/Section_20_Challenge_3.project" Active="Yes"/>
+  <Project Name="Section_20_Challenge_4" Path="Section_20_Challenge_4/Section_20_Challenge_4.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
