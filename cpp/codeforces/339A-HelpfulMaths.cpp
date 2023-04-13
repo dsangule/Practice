@@ -1,4 +1,5 @@
 #include<iostream>
+#include<algorithm>
 
 using namespace std;
 
@@ -18,7 +19,7 @@ int main(){
 		cout << A[i] << "+";
 	}
 	
-	cout << A[j-1];
+	cout << A[j-1] << endl;
 
 	return 0;
 }
